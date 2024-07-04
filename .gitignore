@@ -1,0 +1,7 @@
+# Ignore the Library and UserSettings folders
+[Ll]ibrary/
+UserSettings/
+.idea/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
